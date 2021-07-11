@@ -1,1 +1,1 @@
-# stop-drop-money
+_G.drop = false
